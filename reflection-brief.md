@@ -3,9 +3,7 @@
 **Name:** Sneka K
 **Date:** 2026-09-28
 
-> Grounded in the capstone evidence artifacts. Where a live run was blocked by model availability, that limitation is stated rather than replaced with fabricated output.
-
----
+ Grounded in the capstone evidence artifacts. Where a live run was blocked by model availability, that limitation is stated rather than replaced with fabricated output.
 
 ## 0. Environment
 
@@ -18,7 +16,6 @@
 
 Evidence: `capstone-submission/environment.txt`
 
----
 
 ## 1. Validated, routed pipeline
 
@@ -70,8 +67,6 @@ The `umbrella × exclusions` slice shows high confidence alongside zero observed
 
 Evidence: `01-policy-pipeline/calibration-report.txt`.
 
----
-
 ## 2. Schema-enforced two-pass extraction
 
 | Evidence | Value |
@@ -115,7 +110,6 @@ Normalizing during extraction gives downstream validation and consumers a consis
 
 Evidence: mortgage extraction tests and document fixtures.
 
----
 
 ## 3. Multi-source synthesis
 
@@ -210,7 +204,7 @@ I would instrument:
 
 These signals make failures observable instead of allowing them to disappear inside an apparently successful LLM response.
 
----
+
 
 ## Evidence Index
 
